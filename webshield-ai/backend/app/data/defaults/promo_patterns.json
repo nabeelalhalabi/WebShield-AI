@@ -1,0 +1,28 @@
+{
+  "keywords": [
+    "free iphone",
+    "free money",
+    "claim now",
+    "you won",
+    "winner",
+    "jackpot",
+    "urgent",
+    "limited time",
+    "exclusive deal",
+    "instant reward",
+    "guaranteed",
+    "cash prize",
+    "click now",
+    "act now"
+  ],
+  "regex_patterns": [
+    "(you\\s+won\\s+\\$?\\d+)",
+    "(free\\s+(iphone|phone|gift|cash))",
+    "(claim\\s+your\\s+(reward|prize|gift))",
+    "(limited\\s+time\\s+offer)",
+    "(urgent\\W+action\\s+required)",
+    "([!]{3,})",
+    "([A-Z]{6,})",
+    "([0-9]{4,})"
+  ]
+}

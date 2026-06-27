@@ -1,0 +1,11 @@
+{
+  "weights": {
+    "toxicity": 15,
+    "profanity": 10,
+    "hate_speech": 20,
+    "nsfw": 22,
+    "violence": 20,
+    "promotions": 12,
+    "default": 10
+  }
+}

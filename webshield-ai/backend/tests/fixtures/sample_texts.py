@@ -1,0 +1,5 @@
+SAFE_TEXT = "This is a neutral explanation of car engines and maintenance."
+TOXIC_TEXT = "You are disgusting and nobody wants you here."
+PROMO_TEXT = "YOU WON 1000000 DOLLARS! CLAIM YOUR IPHONE NOW!"
+PROFANITY_TEXT = "This stupid damn page is trash."
+HATE_TEXT = "Those people are animals and should be kicked out."

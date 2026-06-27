@@ -1,0 +1,36 @@
+{
+  "url": "https://example.com",
+  "title": "Sample page",
+  "text_items": [
+    {
+      "item_id": "t-1",
+      "text": "I hate you and you're disgusting."
+    },
+    {
+      "item_id": "t-2",
+      "text": "Have a lovely day and stay safe."
+    },
+    {
+      "item_id": "t-3",
+      "text": "YOU WON 100000 DOLLARS!!! CLAIM NOW!!!"
+    }
+  ],
+  "image_items": [],
+  "promo_items": [
+    {
+      "item_id": "p-1",
+      "text": "YOU WON 100000 DOLLARS!!! CLAIM NOW!!!"
+    },
+    {
+      "item_id": "p-2",
+      "text": "Save 15% on winter tires through Sunday."
+    }
+  ],
+  "headings": [
+    {
+      "item_id": "h-1",
+      "text": "Example heading",
+      "level": 1
+    }
+  ]
+}
